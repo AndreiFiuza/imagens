@@ -1,5 +1,3 @@
-# Imagens
-
 # Galeria de Imagens
 
 ![](./imagens.png)
